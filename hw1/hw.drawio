@@ -176,9 +176,9 @@
           <mxGeometry x="90" y="1035" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-99" value="supervises" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412.5" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qkja0bBRAM592csyJ8ed-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="pCgzKXGaRjzKQiXqkFun-99" target="Qkja0bBRAM592csyJ8ed-3" edge="1">
+        <mxCell id="Qkja0bBRAM592csyJ8ed-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=3;" parent="1" source="pCgzKXGaRjzKQiXqkFun-99" target="Qkja0bBRAM592csyJ8ed-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qkja0bBRAM592csyJ8ed-11" value="&lt;p&gt;Consider situation a - I want to connect a relationship with another relationship but that&#39;s not allowed.&amp;nbsp;&lt;/p&gt;&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;There are 2 solutions: (1) Aggregation and (2) Reification&amp;nbsp;&lt;/p&gt;&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;In situation b I used aggregation.&amp;nbsp;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
