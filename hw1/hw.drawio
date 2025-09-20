@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="28.2.3">
   <diagram name="Page-1" id="j_UNtgZywGewUzDashUs">
-    <mxGraphModel dx="1781" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CSdRYIGSl0JJNWNKMSJN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pCgzKXGaRjzKQiXqkFun-1" target="CSdRYIGSl0JJNWNKMSJN-72">
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="pCgzKXGaRjzKQiXqkFun-1" target="CSdRYIGSl0JJNWNKMSJN-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-1" value="Professors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-77" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Each Graduate Student can work on multiple (one or more) projects.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="890" width="640" height="30" as="geometry" />
+          <mxGeometry x="690" y="1040" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-80" value="works" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="80" height="80" as="geometry" />
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-87" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Professors can manage and/or work on multiple projects&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Professors can manage multiple projects&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Professors can work on multiple projects&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="745" y="980" width="410" height="40" as="geometry" />
+          <mxGeometry x="690" y="1090" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pCgzKXGaRjzKQiXqkFun-92" value="works2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="440" width="80" height="80" as="geometry" />
@@ -186,7 +186,7 @@
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CSdRYIGSl0JJNWNKMSJN-57" target="CSdRYIGSl0JJNWNKMSJN-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CSdRYIGSl0JJNWNKMSJN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CSdRYIGSl0JJNWNKMSJN-57" target="CSdRYIGSl0JJNWNKMSJN-72">
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="CSdRYIGSl0JJNWNKMSJN-57" target="CSdRYIGSl0JJNWNKMSJN-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-57" value="Department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -253,7 +253,7 @@
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-98" value="&lt;b&gt;Supervises&lt;/b&gt;&amp;nbsp;Relationship Between Professors and Aggregated Projects + Graduate Students&amp;nbsp;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-5" y="940" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CSdRYIGSl0JJNWNKMSJN-99" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;When graduate students work on a project, a professor (exactly one) professor must supervise their work on the project (h)&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Every professor can supervise one or more projects (at least one)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-99" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;When graduate students work on a project, a professor (exactly one) professor must supervise their work on the project (h)&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Every professor can supervise one or more projects (at least one) But they don&#39;t HAVE to&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5" y="980" width="645" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CSdRYIGSl0JJNWNKMSJN-106">
@@ -549,13 +549,34 @@
           <mxGeometry x="22.5" y="2410" width="645" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-223" value="&lt;b&gt;Supervise&lt;/b&gt;&amp;nbsp;Relationship Between Supervisors and the aggregation of long term contracts and pharmacies&amp;nbsp;&amp;nbsp;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2380" width="640" height="30" as="geometry" />
+          <mxGeometry x="22.5" y="2380" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-224" value="&lt;div&gt;&lt;u&gt;SSN&lt;/u&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1105" width="67.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CSdRYIGSl0JJNWNKMSJN-226" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1155" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-231" value="Problem 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1115" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-232" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Professors can work in one or more departments (k)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Departments can have many professors working in them. + A Department HAS to have at least one professor working in it&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="740" width="645" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-233" value="&lt;b&gt;works3&lt;/b&gt;&amp;nbsp;Relationship Between Professors and Departments&amp;nbsp;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-234" value="Problem 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-235" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Graduate students can be in exactly one department.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Every department can have many graduate students but not required.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671.25" y="860" width="645" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-236" value="&lt;b&gt;in&lt;/b&gt;&amp;nbsp;Relationship Between Graduate Students and Departments&amp;nbsp;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="671.25" y="830" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CSdRYIGSl0JJNWNKMSJN-237" value="&lt;div&gt;&lt;b&gt;Reflexive&lt;/b&gt;&amp;nbsp;Relationship Graduate Students Mentees and Senior Grad Students&amp;nbsp;&lt;/div&gt;&lt;div&gt;Grad students can have exactly one student advisor&lt;/div&gt;&lt;div&gt;Student advisor can advice many grad students&lt;/div&gt;" style="text;strokeColor=#d6b656;align=left;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="671.25" y="940" width="640" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
